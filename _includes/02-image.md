@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Go Blue](http://i44.tinypic.com/sl3ejl.jpg)
