@@ -1,5 +1,5 @@
 Programming Languages I've Started with:
-* Python
-* Html5
-* CSS
-* Javascript
+* Python :snake:
+* _**Html5**_
+* _CSS_
+* **Javascript**
