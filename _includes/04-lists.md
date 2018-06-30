@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Metallica
+2. Trivium
+3. Five Finger Death Punch
